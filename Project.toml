@@ -1,0 +1,13 @@
+name = "ServerMetrics"
+uuid = "7c6f4b8a-3d4e-4f5a-9b6c-2d8e1a7f3042"
+authors = ["iServerSupport"]
+version = "0.1.0"
+
+[compat]
+julia = "1.6"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
